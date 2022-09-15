@@ -1,0 +1,17 @@
+-Q theories tmc
+theories/common/loc.v
+theories/common/typeclasses.v
+theories/common/prelude.v
+theories/common/tactics.v
+theories/common/bi_typeclasses.v
+theories/without_calls/language/ectx_lang.v
+theories/without_calls/language/lang.v
+theories/without_calls/language/ectxi_lang.v
+theories/without_calls/language/lang_ctx.v
+theories/without_calls/refinement.v
+theories/without_calls/simulation.v
+theories/without_calls/tmc_lang/lang.v
+theories/without_calls/tmc_lang/transformation.v
+theories/without_calls/tmc_lang/syntax.v
+theories/without_calls/tmc_lang/notations.v
+theories/without_calls/tmc_lang/semantics.v
