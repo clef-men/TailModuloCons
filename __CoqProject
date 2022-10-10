@@ -1,6 +1,3 @@
-theories -> tmc
+theories -> simuliris
 theories/common/*.v
-theories/without_calls/language/*.v
-theories/without_calls/refinement.v
-theories/without_calls/simulation.v
-theories/without_calls/tmc_lang/*.v
+theories/without_calls/*.v
